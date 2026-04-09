@@ -24,8 +24,16 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://hplayer-demo.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=STIX+Two+Text&size=60&pause=1000&color=F7279C&random=false&width=2000&height=204&lines=Hplayer;A+JavaScript+library+for+incorporating+video+players+into+web+applications." alt="Typing SVG" /></a>
+    <a href="https://hplayer-demo.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=STIX+Two+Text&size=60&pause=1000&color=F7279C&random=false&width=2000&height=204&lines=Hplayer;A+JavaScript+SDK+for+incorporating+video+players+on+web." alt="Typing SVG" /></a>
   </p>
+
+<p align="left">
+  <a href="https://demo-3d-tshirt.netlify.app/"><img src="https://readme-typing-svg.demolab.com?    font=STIX+Two+Text&size=60&pause=1000&color=F72237&random=false&width=2000&height=204&lines=3D Tshirt Designer;Custom+3D+Tshirt+Designer" alt="Typing SVG" />  </a>
+</p>
+
+<p align="left">
+  <a href="https://hipi-store.netlify.app/"><img src="https://readme-typing-svg.demolab.com?    font=STIX+Two+Text&size=60&pause=1000&color=F72237&random=false&width=2000&height=204&lines=NextGen T-Commerce;Next Generation Tshirt E-Commerce Website MVP" alt="Typing SVG" />  </a>
+</p>
 
   <a href="https://github.com/hiren3897?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
